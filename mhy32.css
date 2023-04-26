@@ -1,0 +1,10 @@
+background: rgb(140, 29, 33);
+}
+
+	.num , .num2
+	{
+		background: rgb(55, 14, 218);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
